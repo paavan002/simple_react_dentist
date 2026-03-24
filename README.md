@@ -1,7 +1,7 @@
 # 🦷 Dentist Appointment Booking Platform
 
 ## 🏠 Home Page
-![Home](./assets/homepage.png)
+![Home](src/assets/homepage.png)
 
 ## 🎯 Hero Section
 ![Hero](./assets/hero.png)
